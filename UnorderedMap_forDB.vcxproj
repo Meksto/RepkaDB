@@ -24,6 +24,7 @@
     <ProjectGuid>{2e22c4bc-fd24-4120-9e76-646fa23d5943}</ProjectGuid>
     <RootNamespace>UnorderedMapforDB</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>RepkaDB</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="IRepka.cpp" />
-    <ClCompile Include="UnorderedMap_forDB.cpp" />
+    <ClCompile Include="RepkaDB.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IRepka.h" />

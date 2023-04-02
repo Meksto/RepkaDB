@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnorderedMap_forDB", "UnorderedMap_forDB.vcxproj", "{2E22C4BC-FD24-4120-9E76-646FA23D5943}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RepkaDB", "UnorderedMap_forDB.vcxproj", "{2E22C4BC-FD24-4120-9E76-646FA23D5943}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
